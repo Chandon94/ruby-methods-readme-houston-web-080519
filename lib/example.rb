@@ -1,4 +1,6 @@
-# Use this space to code along with the readme
+def greeting
+  puts "Hello, everyone"
+end
 
 phrase = "Hello World!"
 puts phrase
